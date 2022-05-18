@@ -18,3 +18,5 @@ The following contracts are integrated：
 - GovernorVotesQuorumFraction,
 - GovernorTimelockControl  
 https://docs.openzeppelin.com/contracts/4.x/api/governance
+## Treasury：  
+All donated funds pools, used for distributed funds to applicants (various token), all distributed funds should have a certain amount of voting, and the total amount is less than the total amount of funds in the pool.  
