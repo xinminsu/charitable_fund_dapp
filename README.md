@@ -8,9 +8,9 @@ Each donation project include：
 
 ![image](https://user-images.githubusercontent.com/16698808/168980623-3a3073b6-6bdc-418d-b0fa-7930a3a081b5.png)
 
-Token：  
+###Token：  
 A type of the ERC20 token，for the voting authority of the donors，the more donations, the more token.    
-Governance:  
+###Governance:  
 The following contracts are integrated：  
 - Governor,
 - GovernorCountingSimple,
