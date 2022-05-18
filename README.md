@@ -2,7 +2,7 @@
 
 ## The donation project is managed with a dao
 
-each donation project include：
+Each donation project include：
 - contribute  
 - Fund applicant  
 
